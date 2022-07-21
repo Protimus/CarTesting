@@ -1,0 +1,4 @@
+SELECT rtrim(concat(p.FirstName + ' ', p.LastName + ' ')) as FullName, p.Age, o.OrderId, o.DateCreated, o.MethodofPurchase as 'Purchase Method', od.ProductNumber, od.ProductOrigin
+FROM Customer AS p LEFT JOIN Orders AS o
+ON p.PersonId = o.PersonId LEFT JOIN OrdersDetails AS od
+ON o.OrderId = od.OrderID WHERE od.ProductId = 1112222333
