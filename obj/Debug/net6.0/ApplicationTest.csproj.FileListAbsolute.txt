@@ -1,0 +1,837 @@
+D:\ApplicationTest\bin\Debug\net6.0\appsettings.Development.json
+D:\ApplicationTest\bin\Debug\net6.0\appsettings.json
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.staticwebassets.runtime.json
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.exe
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.deps.json
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.runtimeconfig.json
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.dll
+D:\ApplicationTest\bin\Debug\net6.0\ApplicationTest.pdb
+D:\ApplicationTest\bin\Debug\net6.0\Humanizer.dll
+D:\ApplicationTest\bin\Debug\net6.0\MessagePack.dll
+D:\ApplicationTest\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ApplicationTest\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ApplicationTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ApplicationTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Common.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ApplicationTest\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ApplicationTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApplicationTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.csproj.AssemblyReference.cache
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.AssemblyInfoInputs.cache
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.AssemblyInfo.cs
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.csproj.CoreCompileInputs.cache
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.RazorAssemblyInfo.cache
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.RazorAssemblyInfo.cs
+D:\ApplicationTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\ApplicationTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\ApplicationTest\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ApplicationTest\obj\Debug\net6.0\scopedcss\bundle\ApplicationTest.styles.css
+D:\ApplicationTest\obj\Debug\net6.0\scopedcss\projectbundle\ApplicationTest.bundle.scp.css
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.csproj.CopyComplete
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.dll
+D:\ApplicationTest\obj\Debug\net6.0\refint\ApplicationTest.dll
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.pdb
+D:\ApplicationTest\obj\Debug\net6.0\ApplicationTest.genruntimeconfig.cache
+D:\ApplicationTest\obj\Debug\net6.0\ref\ApplicationTest.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\appsettings.Development.json
+D:\ApplicationTest - Copia\bin\Debug\net6.0\appsettings.json
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.staticwebassets.runtime.json
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.exe
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.deps.json
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.runtimeconfig.json
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ApplicationTest.pdb
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\mscorlib.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\netstandard.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Collections.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Console.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Data.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Linq.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Memory.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Web.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Windows.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Humanizer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\MessagePack.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NToastNotify.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApplicationTest - Copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.csproj.AssemblyReference.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.AssemblyInfoInputs.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.AssemblyInfo.cs
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.csproj.CoreCompileInputs.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.MvcApplicationPartsAssemblyInfo.cs
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.MvcApplicationPartsAssemblyInfo.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.RazorAssemblyInfo.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.RazorAssemblyInfo.cs
+D:\ApplicationTest - Copia\obj\Debug\net6.0\staticwebassets.build.json
+D:\ApplicationTest - Copia\obj\Debug\net6.0\staticwebassets.development.json
+D:\ApplicationTest - Copia\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ApplicationTest - Copia\obj\Debug\net6.0\scopedcss\bundle\ApplicationTest.styles.css
+D:\ApplicationTest - Copia\obj\Debug\net6.0\scopedcss\projectbundle\ApplicationTest.bundle.scp.css
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.csproj.CopyComplete
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.dll
+D:\ApplicationTest - Copia\obj\Debug\net6.0\refint\ApplicationTest.dll
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.pdb
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ApplicationTest.genruntimeconfig.cache
+D:\ApplicationTest - Copia\obj\Debug\net6.0\ref\ApplicationTest.dll

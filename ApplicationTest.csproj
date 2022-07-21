@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\NovaPasta\**" />
+    <Content Remove="Data\NovaPasta\**" />
+    <EmbeddedResource Remove="Data\NovaPasta\**" />
+    <None Remove="Data\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="custom.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.7" />
+    <PackageReference Include="NToastNotify" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\currency.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\date.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\message.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\number.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\plural.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\relative-time.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize-runtime\unit.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\currency.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\date.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\message.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\number.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\plural.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\relative-time.js" />
+    <None Include="wwwroot\lib\globalize\dist\globalize\unit.js" />
+    <None Include="wwwroot\lib\globalize\dist\node-main.js" />
+    <None Include="wwwroot\lib\jquery-validation-globalize\gulpfile.js" />
+    <None Include="wwwroot\lib\jquery-validation-globalize\jquery.validate.globalize.js" />
+    <None Include="wwwroot\lib\jquery-validation-globalize\jquery.validate.globalize.min.js" />
+  </ItemGroup>
+
+</Project>
